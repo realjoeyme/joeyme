@@ -71,7 +71,7 @@
 }
 
 .u-section-2 .u-gallery-1 {
-  height: 4645px;
+  height: 4636px;
   grid-gap: 17px 17px;
   margin: 0 0 26px;
 }
@@ -186,14 +186,44 @@
   padding: 20px;
 }
 
+.u-section-2 .u-over-slide-22 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-23 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-24 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-25 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-26 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-27 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 3849px;
+    min-height: 3857px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto auto auto;
-    height: 3823px;
+    height: 3822px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -205,12 +235,12 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 7002px;
+    min-height: 6930px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto auto;
-    height: 6976px;
+    height: 6895px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -222,12 +252,12 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 20327px;
+    min-height: 20251px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto;
-    height: 20301px;
+    height: 20216px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -239,11 +269,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 12934px;
+    min-height: 12927px;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 12908px;
+    height: 12892px;
     margin-right: initial;
     margin-left: initial;
   }
