@@ -71,7 +71,7 @@
 }
 
 .u-section-2 .u-gallery-1 {
-  height: 4478px;
+  height: 4404px;
   grid-gap: 17px;
   margin: 0 0 60px;
 }
@@ -97,6 +97,11 @@
 
 .u-section-2 .u-gallery-item-2 {
   margin-right: 0;
+}
+
+.u-section-2 .u-back-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
 }
 
 .u-section-2 .u-over-slide-2 {
@@ -383,14 +388,23 @@
   padding: 20px;
 }
 
+.u-section-2 .u-gallery-item-34 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-over-slide-34 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 3779px;
+    min-height: 3795px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto auto auto;
-    height: 3716px;
+    height: 3641px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -417,6 +431,10 @@
 
   .u-section-2 .u-over-slide-3 {
     min-height: 100px;
+  }
+
+  .u-section-2 .u-gallery-item-4 {
+    padding: 20px;
   }
 
   .u-section-2 .u-over-slide-4 {
@@ -538,16 +556,20 @@
   .u-section-2 .u-over-slide-33 {
     min-height: 100px;
   }
+
+  .u-section-2 .u-over-slide-34 {
+    min-height: 100px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 6235px;
+    min-height: 6121px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto auto;
-    height: 6091px;
+    height: 5967px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -559,12 +581,12 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 19555px;
+    min-height: 18213px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto;
-    height: 18440px;
+    height: 18059px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -576,11 +598,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 12544px;
+    min-height: 11732px;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 11818px;
+    height: 11578px;
     margin-right: initial;
     margin-left: initial;
   }
