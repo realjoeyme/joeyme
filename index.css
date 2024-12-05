@@ -257,13 +257,6 @@
     margin-left: initial;
   }
 
-  .u-section-4 .embed-responsive-1 {
-    width: 178%;
-    height: 178%;
-    left: -39%;
-    top: -39%;
-  }
-
   .u-section-4 .u-text-1 {
     font-size: 1.5rem;
     width: auto;
@@ -433,21 +426,16 @@
 
 .u-section-7 .embed-responsive-1 {
   position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
 }
 
 .u-section-7 .u-text-1 {
   font-weight: 700;
   font-size: 1.875rem;
   margin: 30px auto;
-}
-
-@media (max-width: 1199px) {
-  .u-section-7 .embed-responsive-1 {
-    height: 100%;
-    width: 100%;
-    left: 0;
-    top: 0;
-  }
 }
 
 @media (max-width: 767px) {
@@ -483,8 +471,8 @@
   }
 
   .u-section-7 .embed-responsive-1 {
-    height: 100%;
     width: 100%;
+    height: 100%;
     left: auto;
     top: auto;
   }
