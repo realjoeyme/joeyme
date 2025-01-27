@@ -141,10 +141,6 @@
   padding: 20px;
 }
 
-.u-section-2 .u-back-image-5 {
-  margin-right: 0;
-}
-
 .u-section-2 .u-over-slide-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 20px;
@@ -156,6 +152,10 @@
 
 .u-section-2 .u-back-slide-6 {
   padding: 20px;
+}
+
+.u-section-2 .u-back-image-6 {
+  margin-right: 0;
 }
 
 .u-section-2 .u-over-slide-6 {
@@ -579,6 +579,19 @@
   padding: 20px;
 }
 
+.u-section-2 .u-gallery-item-39 {
+  margin-right: 0;
+}
+
+.u-section-2 .u-back-slide-39 {
+  padding: 20px;
+}
+
+.u-section-2 .u-over-slide-39 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 3819px;
@@ -607,12 +620,12 @@
     min-height: 100px;
   }
 
-  .u-section-2 .u-back-image-5 {
-    margin-right: initial;
-  }
-
   .u-section-2 .u-over-slide-5 {
     min-height: 100px;
+  }
+
+  .u-section-2 .u-back-image-6 {
+    margin-right: initial;
   }
 
   .u-section-2 .u-over-slide-6 {
@@ -746,16 +759,20 @@
   .u-section-2 .u-over-slide-38 {
     min-height: 100px;
   }
+
+  .u-section-2 .u-over-slide-39 {
+    min-height: 100px;
+  }
 }
 
 @media (max-width: 991px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 6268px;
+    min-height: 6584px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto auto;
-    height: 6000px;
+    height: 6316px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -767,12 +784,12 @@
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 18392px;
+    min-height: 18867px;
   }
 
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto;
-    height: 18124px;
+    height: 18599px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -784,11 +801,11 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 11912px;
+    min-height: 12218px;
   }
 
   .u-section-2 .u-gallery-1 {
-    height: 11644px;
+    height: 11950px;
     margin-right: initial;
     margin-left: initial;
   }
