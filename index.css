@@ -57,7 +57,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 485px;
+  min-height: 455px;
 }
 
 .u-section-2 .u-video-1 {
@@ -77,12 +77,12 @@
 .u-section-2 .u-text-1 {
   font-weight: 700;
   font-size: 1.875rem;
-  margin: 31px auto 30px;
+  margin: 31px auto 0;
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 429px;
+    min-height: 399px;
   }
 
   .u-section-2 .u-video-1 {
@@ -93,7 +93,7 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-    min-height: 316px;
+    min-height: 286px;
   }
 
   .u-section-2 .u-video-1 {
