@@ -79,7 +79,7 @@
 
 .u-section-2 .u-gallery-inner-1 {
   grid-template-columns: repeat(4, auto);
-  grid-gap: 0px;
+  --gap: 0px;
 }
 
 .u-section-2 .u-gallery-item-1 {
@@ -458,6 +458,10 @@
   .u-section-2 .u-gallery-1 {
     grid-template-columns: auto auto auto;
     height: 3419px;
+  }
+
+  .u-section-2 .u-gallery-inner-1 {
+    grid-gap: 0px;
   }
 
   .u-section-2 .u-over-slide-1 {
