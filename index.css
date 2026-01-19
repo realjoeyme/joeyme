@@ -186,11 +186,12 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 486px;
+    min-height: 463px;
   }
 
   .u-section-4 .u-video-1 {
     margin-top: -456px;
+    margin-bottom: 60px;
   }
 }
 
@@ -228,7 +229,6 @@
   .u-section-4 .u-video-1 {
     height: 190px;
     margin-top: -272px;
-    margin-bottom: 60px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -265,7 +265,7 @@
 .u-section-5 .u-text-1 {
   font-weight: 700;
   font-size: 1.875rem;
-  margin: 30px auto;
+  margin: 30px auto 36px;
 }
 
 @media (max-width: 767px) {
@@ -291,6 +291,11 @@
     width: auto;
     margin-right: initial;
     margin-left: initial;
+  }
+
+  .u-section-5 .embed-responsive-1 {
+    left: -39%;
+    top: -39%;
   }
 
   .u-section-5 .u-text-1 {
